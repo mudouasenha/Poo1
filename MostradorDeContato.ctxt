@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MostradorDeContato
+comment1.params=c\ numero
+comment1.target=MostradorDeContato(Contato,\ long)
+comment2.params=
+comment2.target=void\ mostre()
+numComments=3

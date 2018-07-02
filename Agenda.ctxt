@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=n
+comment1.target=Agenda(int)
+comment2.params=
+comment2.target=int\ retorneQuantidade()
+comment3.params=telefone
+comment3.target=Contato\ pesquisePorTelefone(long)
+comment4.params=fragmentoDeNome
+comment4.target=Contato[]\ pesquisePorNome(java.lang.String)
+comment5.params=
+comment5.target=Contato[]\ pesquiseTodos()
+comment6.params=novoContato
+comment6.target=void\ cadastre(Contato)
+comment7.params=nome\ fragmento
+comment7.target=boolean\ contemNome(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=int\ encontrePosicaoLivre()
+numComments=9
